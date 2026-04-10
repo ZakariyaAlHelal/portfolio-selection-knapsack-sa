@@ -58,6 +58,10 @@ pip install -r requirements.txt
 python experiments/run.py
 ```
 
+Alternatively, the full implementation and experimental workflow can be accessed via the notebook:
+
+[portfolio_knapsack_sa.ipynb](notebooks/portfolio_knapsack_sa.ipynb)
+
 This will:
 
 * Generate synthetic portfolio instances
