@@ -82,10 +82,9 @@ The computational experiments show:
 
 ## Repository Structure
 
-src/          → core implementation
-experiments/  → reproducible experiments
-results/      → outputs and figures
-paper/        → journal and conference papers
+experiments/ → experiment entry point
+notebooks/ → full implementation and results
+paper/ → journal and conference papers
 
 ---
 
