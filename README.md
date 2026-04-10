@@ -84,7 +84,6 @@ The computational experiments show:
 
 experiments/ → experiment entry point
 notebooks/ → full implementation and results
-paper/ → journal and conference papers
 
 ---
 
@@ -96,15 +95,6 @@ This repository is associated with the following research outputs:
 - **Conference paper** — a preliminary version focusing on the simulated annealing–based solution approach  
 
 Both works are based on the same core implementation provided in this repository.
-
----
-
-## Paper
-
-The full papers are provided in:
-
-paper/journal_paper.pdf
-paper/conference_paper.pdf
 
 ---
 ## Citation
