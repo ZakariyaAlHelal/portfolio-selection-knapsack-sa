@@ -66,7 +66,7 @@ This will:
 
 * Generate synthetic portfolio instances
 * Run all algorithms
-* Save results to the `results/` directory
+* Produce results and figures within the notebook
 
 ---
 
