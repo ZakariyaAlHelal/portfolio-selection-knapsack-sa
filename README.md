@@ -1,4 +1,4 @@
-<img width="2082" height="595" alt="image" src="https://github.com/user-attachments/assets/ff450ef0-6ca5-424b-8e16-cee642f4ec8a" /># Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties
+# Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties
 
 This repository provides a reproducible implementation of the optimization framework presented in the accompanying research papers, including the full journal version and a preliminary conference version.
 ---
