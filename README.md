@@ -107,7 +107,6 @@ The full papers are provided in:
 paper/journal_paper.pdf
 paper/conference_paper.pdf
 
-_Last updated: September 2026_
 ---
 ## Citation
 
