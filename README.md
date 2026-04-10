@@ -1,6 +1,6 @@
 # Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties
 
-This repository provides a reproducible implementation of the optimization framework presented in the corresponding research papers, including the full journal version and a preliminary conference version.
+This repository provides a reproducible implementation of the optimization framework presented in the associated research papers, including the full journal version and a preliminary conference version.
 ---
 
 ## Overview
@@ -99,7 +99,7 @@ Both works are based on the same core implementation provided in this repository
 ---
 ## Citation
 
-If you use this work, please cite:
+If you use this repository, please cite the corresponding work:
 
 Al-Helal, Z. S.,  
 "Strategic Selection of a Technology Project Portfolio as a Multi-Dimensional Knapsack Problem with Structured Balance Penalties."
