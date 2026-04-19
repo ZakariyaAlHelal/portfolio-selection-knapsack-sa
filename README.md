@@ -98,8 +98,11 @@ LaTeX tables corresponding to the experimental results are available in `docs/ta
 ---
 ## Repository Structure
 
-experiments/ → experiment entry point
-notebooks/ → full implementation and results
+- `experiments/` → experiment entry point  
+- `notebooks/` → full implementation and results  
+- `results/` → precomputed outputs  
+- `docs/figures/` → visualizations  
+- `docs/tables/` → LaTeX tables  
 
 ---
 
