@@ -54,7 +54,7 @@ The heuristic search includes:
 To reproduce results:
 
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas matplotlib seaborn
 python experiments/run.py
 ```
 
