@@ -89,7 +89,10 @@ Visualizations generated from the experimental results are available in `docs/fi
 - Runtime scaling  
 - Trade-off between time and intent deviations  
 ---
+## Tables
 
+Tables used in the paper are available in `docs/tables/`.
+---
 ## Repository Structure
 
 experiments/ → experiment entry point
