@@ -77,6 +77,8 @@ The computational experiments show:
 * Simulated Annealing consistently achieves the highest objective value
 * Adaptive SA performs similarly to the greedy baseline
 * The formulation is robust across different parameter settings
+
+  *Note:* The provided results are precomputed from prior experimental runs and are included for reference. Running the current code may produce different outputs depending on parameter settings and randomness.
 ---
 ## Figures
 
