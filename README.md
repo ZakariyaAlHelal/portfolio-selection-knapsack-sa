@@ -77,7 +77,17 @@ The computational experiments show:
 * Simulated Annealing consistently achieves the highest objective value
 * Adaptive SA performs similarly to the greedy baseline
 * The formulation is robust across different parameter settings
+---
+## Figures
 
+Visualizations generated from the experimental results are available in `docs/figures/`, including:
+
+- Algorithm performance comparison  
+- Convergence behavior  
+- Resource balance and stability  
+- Objective distribution  
+- Runtime scaling  
+- Trade-off between time and intent deviations  
 ---
 
 ## Repository Structure
