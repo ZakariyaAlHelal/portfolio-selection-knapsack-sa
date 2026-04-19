@@ -91,7 +91,8 @@ Visualizations generated from the experimental results are available in `docs/fi
 ---
 ## Tables
 
-LaTeX tables used in the paper are available in `docs/tables/`.
+LaTeX tables corresponding to the experimental results are available in `docs/tables/`.
+
 ---
 ## Repository Structure
 
