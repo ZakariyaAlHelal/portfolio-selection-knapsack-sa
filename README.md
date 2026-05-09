@@ -118,4 +118,4 @@ Both works are based on the same core implementation provided in this repository
 ---
 ## Citation
 
-If you use this repository, please cite the appropriate publication listed in the Related Work above.
+If you use this repository, please cite the appropriate paper listed in the Related Work above.
