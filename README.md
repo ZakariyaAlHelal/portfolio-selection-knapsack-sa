@@ -5,8 +5,6 @@ This repository provides a reproducible implementation of the optimization frame
 
 ## Overview
 
-This repository provides a reproducible implementation of a heuristic optimization framework for project portfolio selection under resource constraints and structural balance requirements.
-
 The proposed approach formulates the problem as a **multi-dimensional knapsack model with structured balance penalties**, integrating:
 
 * Project prioritization
